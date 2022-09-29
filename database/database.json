@@ -1,0 +1,30 @@
+{
+    "products":[
+        {"id": 0,  "categories": [0,1], "subcategories": [0,1],     "personsex": 0, "title": "Camisa Preta Simples", "description": "Uma camisa básica, na cor preta. Feita com algodão egípcio, com o corte ideal para todas as ocasiões. Gola redonda.", "size":[], "colors": [1], "price": 59.90, "url": "./img/store/t-shirts/black-simple-tshirt.png"},
+        {"id": 1,  "categories": [0,1], "subcategories": [0,1,3],   "personsex": 0, "title": "Camisa Polo Clássica", "description": "Uma camisa polo, disponível em diversas cores. Material importado de altíssima qualidade.", "size":[], "colors": [0], "price": 79.90, "url": "./img/store/t-shirts/white-tshirt-polo.png"},
+        {"id": 2,  "categories": [0,3], "subcategories": [0,1],     "personsex": 1, "title": "Vestido Azul Florido", "description": "Um lindo vestido florido, na cor azul ideal, com material leve e fresco. Ideal para utilizar em dias quentes.", "size":[], "colors": [2], "price":37.50, "url": "./img/store/dresses/blue-dress-fem.png"},
+        {"id": 3,  "categories": [0,2], "subcategories": [1,3],     "personsex": 0, "title": "Calça Preta Brim",     "description": "Uma calça classica feita em Brim, na cor preta. Ela vem com um corte clássico. Ideal para saídas a noite e uso no dia a dia. ", "size":[], "colors": [1], "price": 89.90, "url": "./img/store/pants/black-pants-casual-simple.png"},
+        {"id": 4,  "categories": [0,2], "subcategories": [0,1,3],   "personsex": 0, "title": "Calça Jeans",          "description": "Não sabe o que usar? Essa calça é ideal para qualquer momento. Calça Jeans combina com qualquer coisa. Esse modelo ainda possui Strech para se adaptar melhor ao seu formato de corpo.", "size":[], "colors": [2], "price": 139.90, "url": "./img/store/pants/simple-blue-pants.png"},
+        {"id": 5,  "categories": [0,2], "subcategories": [0,1,2],   "personsex": 0, "title": "Calça Vinho Brim",     "description": "Uma calça para chegar em qualquer lugar e chamar atenção (e a boa atenção)! Calça na cor vinho, alguns diriam até vermelho, mas ideal para saídas noturnas.", "size":[], "colors": [3], "price": 128.70, "url": "./img/store/pants/red-pants.png"},
+        {"id": 6,  "categories": [0,4], "subcategories": [0,1,2,3], "personsex": 2, "title": "Relógio Casio",        "description": "Um relógio atemporal, clássico, que carrega uma linda lembrança de muitas pessoas. Esse modelo sobreviveu a todas as modas e continua sendo um clássico!", "size":[], "colors": [0], "price": 178.30, "url": "./img/store/watchs/black-watch-universal-classic.png"},
+        {"id": 7,  "categories": [0,4], "subcategories": [0,2],     "personsex": 2, "title": "Relógio Inteligente ", "description": "Esse relógio é para os amanter de tecnologia ou aqueles que procuram acompanhar sua saúde. A tela dele é touch, e acompanha seus sinais vitais, como oxigênio, temperatura, quantidade de passos.", "size":[], "colors": [0], "price": 385.90, "url": "./img/store/watchs/black-watch-new-young.png"},
+        {"id": 8,  "categories": [0,4], "subcategories": [0,1,2],   "personsex": 0, "title": "Relógio Citizen",      "description": "Um relógio flexível para diversas ocasiões. Com uma pegada mais esportiva com a pulseira emborrachada preta e com detalhes em amarelo. Com um lindo mostrador analógico.", "size":[], "colors": [0,5], "price": 218.60, "url": "./img/store/watchs/black-watch-casual.png"},
+        {"id": 9,  "categories": [0,4], "subcategories": [0,1,3],   "personsex": 2, "title": "Relógio Golden Rolex", "description": "Esse relógio vai chegar antes de você! Lindo relógio na cor Dourada, com mostrador analógico e o vidro em Safira. Componentes internos em Ruby e Prata. Ele não é apenas um relógio, é um sinal de status.", "size":[], "colors": [5], "price": 989.90, "url": "./img/store/watchs/golden-watch-social.png"},
+        {"id": 10, "categories": [0,1], "subcategories": [0,1,2],   "personsex": 0, "title": "Camisa Led Zeppelin",  "description": "Essa camisa foi feita para você amante do Rock. Camisa com a logo de uma das maiores bandas de Rock de todos os tempos.", "size":[], "colors": [0,1], "price": 99.90, "url": "./img/store/t-shirts/black-ledzeppelin-tshirt-simple.png"},
+        {"id": 11, "categories": [0,1], "subcategories": [0,1,2],   "personsex": 0, "title": "Camisa AC/DC",         "description": "Uma camisa para um fã raiz do Rock. Quer algo mais representativo do que AC/DC para o Rock? Linda blusa preta com detalhes em branco.", "size":[], "colors": [0,1], "price": 99.90, "url": "./img/store/t-shirts/black-acdc-tshirt.png"}
+    ],
+    "categories":["Todos Produtos", "Camisas", "Calças","Vestidos", "Relógios"],
+    "subcategories": ["Todas","Casual", "Esportivo","Social"],
+    "personsex":["Masculino", "Feminino", "Unissex"], 
+    "size":["PP", "P", "M", "G", "GG"],
+    "colors":[        
+        {"hex": "#F2F3F4", "colorname": "Branco"},
+        {"hex": "#28282B", "colorname": "Preto"},
+        {"hex": "#6577B3", "colorname": "Azul"},
+        {"hex": "#B33F40", "colorname": "Vermelho"},
+        {"hex": "#385E3C", "colorname": "Verde"},
+        {"hex": "#EDD94C", "colorname": "Amarelo"}
+        
+    ]
+
+}

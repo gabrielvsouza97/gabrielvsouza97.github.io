@@ -1,0 +1,25 @@
+body{
+    --bg-color: #FDFBF9;
+    --font-color: #B2B2B2;
+    --font-color-base: #424242;
+    --font-color-active: #7e57c2;
+    --button-hover: #9575cd;
+    --bg-color-filters: #e0e0e0;
+    --border-filters: #eeeeee;
+    --border-filters-base: #B2B2B2;
+    --shadows: rgba(0,0,0,0.08);
+    --drop-shadows: rgba(60, 60, 60,0.6);
+}
+
+body.active{
+    --bg-color: #151414;
+    --font-color: #B2B2B2;
+    --font-color-base: #FDFBF9;
+    --font-color-active: #b39ddb;
+    --button-hover: #b39ddb;
+    --bg-color-filters: #2b2b2b;
+    --border-filters-base: #B2B2B2;
+    --border-filters: #a9a9a9;
+    --shadows: rgba(255,255,255,0.08);
+    --drop-shadows: rgba(60, 60, 60,0.6);
+}

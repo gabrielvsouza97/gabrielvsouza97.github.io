@@ -1,0 +1,15 @@
+{
+  "name": "ecomerce",
+  "version": "1.0.0",
+  "description": "Projeto Criado para o Curso de TypeScript na RBM",
+  "main": "./scripts/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Vasconcelos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
